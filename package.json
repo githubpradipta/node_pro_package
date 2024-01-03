@@ -1,0 +1,20 @@
+{
+  "name": "node-pro-math",
+  "version": "0.0.1",
+  "description": "This is a basic package consist of basic maath functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubpradipta/node_pro_package.git"
+  },
+  "keywords": ["math","console.log"],
+  "author": "Pradipta Banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubpradipta/node_pro_package/issues"
+  },
+  "homepage": "https://github.com/githubpradipta/node_pro_package#readme"
+}
