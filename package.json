@@ -1,5 +1,5 @@
 {
-  "name": "node-pro-math",
+  "name": "4-math",
   "version": "0.0.1",
   "description": "This is a basic package consist of basic maath functions",
   "main": "index.js",
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/githubpradipta/node_pro_package/issues"
   },
-  "homepage": "https://github.com/githubpradipta/node_pro_package#readme",
-  "dependencies": {
-    "node-pro-math": "^0.0.1"
-  }
+  "homepage": "https://github.com/githubpradipta/node_pro_package#readme"
 }
