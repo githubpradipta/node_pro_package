@@ -1,6 +1,6 @@
 {
-  "name": "math-4",
-  "version": "0.0.1",
+  "name": "math-four",
+  "version": "1.0.3",
   "description": "This is a basic package consist of basic maath functions",
   "main": "index.js",
   "scripts": {

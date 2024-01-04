@@ -1,4 +1,4 @@
-# math-4
+# math-four
 
 A simple npm package that provides the basic four math opperations **`Summation`**,**`Subtraction`**,**`Multiplication`** and **`Division`**.
 
@@ -11,7 +11,7 @@ A simple npm package that provides the basic four math opperations **`Summation`
 ### Quick Reference:
 
 ```javascript
-    const math = require('math-4');
+    const math = require('math-four');
 
     math.sum(20,30); // returns the sum of two numbers
     math.sub(30,20); // reurns the subtraction of two numbers
@@ -27,12 +27,12 @@ If you are working with a brand new project, make sure to create a `package.json
 Now just install the module with `npm install` command.
 
 ```bash
-npm install math-4
+npm install math-four
 ```
 Require it in your project
 
 ```javascript
-const math = require('math-4');
+const math = require('math-four');
 ```
 Then finally use it.
 
