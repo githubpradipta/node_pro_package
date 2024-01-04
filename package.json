@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/githubpradipta/node_pro_package.git"
   },
-  "keywords": ["math","console.log"],
+  "keywords": [
+    "math",
+    "console.log"
+  ],
   "author": "Pradipta Banerjee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/githubpradipta/node_pro_package/issues"
   },
-  "homepage": "https://github.com/githubpradipta/node_pro_package#readme"
+  "homepage": "https://github.com/githubpradipta/node_pro_package#readme",
+  "dependencies": {
+    "node-pro-math": "^0.0.1"
+  }
 }
